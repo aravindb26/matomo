@@ -45,7 +45,7 @@
     "qrcodejs2": "0.0.2",
     "sprintf-js": "^1.1.2",
     "visibilityjs": "^2.0.2",
-    "vue": "^3.2.6"
+    "vue": "^3.3.10"
   },
   "devDependencies": {
     "@types/dotdotdot": "^1.6.36",
